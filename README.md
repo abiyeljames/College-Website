@@ -10,3 +10,14 @@ This is my College website based on asp.net C# that allows us to access the whol
 + Events: It will give information about different events that will be conducted by college time to time. Information about these events will be updated by administrator.
 + Online assignments: This service provides the facility to faculty to upload assignments and to students to submit these assignments online.
 + Information about staff: It will help in maintaining complete information about college faculty members such as their department, cadre, date of joining, salary, etc. Administrator will register new faculties and remove their account when they leave the college.
+## Screenshots
+### 1. Home page
+![Screenshot (1)](https://user-images.githubusercontent.com/74953417/101241257-70700900-371a-11eb-9c6e-5a4021420310.png)
+
+### 2. About College
+![Screenshot (2)](https://user-images.githubusercontent.com/74953417/101241231-3dc61080-371a-11eb-92b1-a063f28439eb.png)
+
+### 3. Contact page
+![Screenshot (3)](https://user-images.githubusercontent.com/74953417/101241236-44ed1e80-371a-11eb-982d-c2e3073d5839.png)
+
+
