@@ -1,0 +1,4 @@
+//requirements//
+
+1. Visual studio
+2. Microsoft SQL Server Management Studio (SSMS)
