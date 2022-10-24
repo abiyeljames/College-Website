@@ -30,7 +30,7 @@
                 Text="HISTORY"></asp:Label>
             <br />
             <br />
-       St. Gonsalo Garcia College is a college in Vasai, Mumbai established in 1984. 
+        St. Gonsalo Garcia College is a college in Vasai, Mumbai established in 1984. 
         The College is recognized by and is registered as an institute of the University of Mumbai.
         It is dedicated to Saint Gonsalo Garcia (1556 – 5 February 1597), the diocesan patron saint of Vasai and the first Catholic Saint of India. He was martyred for preaching Christianity in Nagasaki, Japan along with the other martyrs.
         The following courses are available in this college:Undergraduate Courses:-Bachelor of Commerce, Bachelor of Arts, Bachelor of Commerce In Management Studies, Bachelor of Commerce In Financial Markets,
